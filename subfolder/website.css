@@ -1,0 +1,33 @@
+header
+{
+    background-color: #000;
+    width: 75%;
+    color: beige;
+}
+footer
+{
+color: #000;
+width: 25%;
+height: 10%;
+}
+
+table
+{
+    color: red;
+    background-color: #000;
+    row-gap: 150%;
+}
+
+h1
+{
+    padding: 5%;
+    font-style: italic;
+    color: aqua;
+}
+
+pic
+{
+
+    color: beige;
+}
+
