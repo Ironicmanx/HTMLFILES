@@ -1,0 +1,26 @@
+
+
+body
+{
+font-style: italic;
+border-width: 1px;
+background-color: red;
+size-adjust: device-width;
+}
+title{
+    color-scheme: inherit;
+}
+
+div entirety{
+    color: black;
+}
+
+div first{
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    font: bold;
+    
+}
+div second{
+    border: width 5px;
+}

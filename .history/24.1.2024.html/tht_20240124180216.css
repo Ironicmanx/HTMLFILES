@@ -1,0 +1,23 @@
+
+
+body
+{
+font-style: italic;
+border-width: 1px;
+background-color: red;
+adj
+}
+title{
+    color-scheme: inherit;
+}
+
+div entirety{
+    color: black;
+}
+
+div first{
+    background-color: beige;
+}
+div second{
+    border: width 5px;
+}
