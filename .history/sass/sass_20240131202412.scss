@@ -1,0 +1,64 @@
+@import "variables";
+@import "reset";
+
+body {
+    p {
+        background-color: red;
+    }
+
+    header {
+        background-color: darkblue;
+        stroke-width: 1rem;
+        width: 100px;
+        margin-bottom: 200px;
+        #J {
+border-bottom: 100px;
+        }
+    }
+
+    h1 {
+        background-color: aqua;
+    }
+
+    img {
+        padding: 4em;
+        width: 100%; 
+    }
+    select{
+        color: red;
+
+    }
+}
+div{
+div#container{
+    display: flex;
+    flex-direction: column;
+}
+div#content
+{
+    display: inherit;
+    section{
+        display: inherit;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 80vw;
+    }
+    aside{
+        width: 20vw;
+    }
+}
+
+}
+article{
+    flex: 33.33%;
+    div{
+        margin: $general-margin;
+        border: 1px solid $grey-foreground-color;
+        img{
+            height: 500px;
+            width: 100%;
+            object-fit: cover;
+            object
+        }
+    }
+}

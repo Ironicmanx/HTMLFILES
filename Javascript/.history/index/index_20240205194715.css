@@ -1,0 +1,10 @@
+form > div{
+
+    margin: 1em;
+}
+
+form{
+
+    width: 100px;
+display: inline-block;
+}

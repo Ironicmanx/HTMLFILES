@@ -1,0 +1,14 @@
+
+div#container{
+    color: #000;
+    background-color: aqua;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    text-align: center;
+    margin: 2.5em;
+}

@@ -1,0 +1,14 @@
+
+@mixin h1{
+a{
+    background-color: red;
+align-self: center;
+justify-content: center;
+box-sizing: border-box;
+}
+align-self: hover;
+}
+
+h2{
+    @include h1
+}
