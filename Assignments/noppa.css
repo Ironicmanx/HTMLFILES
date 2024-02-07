@@ -1,0 +1,30 @@
+body:not(#h3) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .dice {
+    cursor: pointer;
+  }
+  h3{
+    margin: 2.5em 2em;
+    text-decoration-line: inherit;
+  }
+  #output {
+    margin: 2em 4em;
+    padding: 1em 1em;
+    text-decoration-line: underline;
+  }
+  
+  @media screen and (max-width: 600px) {
+    body {
+      flex-direction: column; 
+      text-align: center; 
+    }
+  }
+  
