@@ -1,0 +1,28 @@
+
+
+body {
+    background-color: burlywood;
+    justify-content: center;
+    flex-direction: column;
+    justify-self: center;
+}
+
+div#values {
+    margin-left: 10em;
+    justify-content: center;
+    background-color: beige;
+}
+div#checkboxs {
+    margin-left: 10em;
+    justify-self: center;
+    background-color: beige;
+}
+
+canvas {
+
+    margin-top: 1em;
+    margin-left: 20em;
+}
+div#drawing_styles {
+    margin-left: 10em;
+}
